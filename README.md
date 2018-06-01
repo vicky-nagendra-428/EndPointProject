@@ -29,6 +29,7 @@ Read more about [Step implementations in Java](http://getgauge.io/documentation/
 * You can execute the specification as:
 
 ```
-mvn test
+mvn gauge:execute -DspecsDir=specs -Dtags="Smoke-API-CategoryDetails"
+
 ```
 # AssurityProject
