@@ -1,0 +1,1 @@
+var index = {"Tags":{"Regression-API-Tests":["specs/AssurityTest.html"],"Smoke-API-CategoryDetails":["specs/AssurityTest.html"]},"Specs":{"Assurity API Tests":["specs/AssurityTest.html"]}};

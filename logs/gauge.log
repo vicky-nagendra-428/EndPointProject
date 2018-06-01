@@ -1,0 +1,260 @@
+15:12:32.643 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+16:04:55.459 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+16:04:56.998 Checking updates...
+16:05:08.907 [ValidationError] /Users/nagendraa/git1/guruland/tests/AssurityProject/specs/AssurityTest.spec:13 Step implementation not found => 'I make a call to <API_Name> with endpoint <API_EndPoint>'
+16:05:08.907 [ValidationError] /Users/nagendraa/git1/guruland/tests/AssurityProject/specs/AssurityTest.spec:14 Step implementation not found => 'When I found the API is working well with out any error'
+16:05:08.907 [ValidationError] /Users/nagendraa/git1/guruland/tests/AssurityProject/specs/AssurityTest.spec:15 Step implementation not found => 'Then I see the attribute "category name" is "Carbon credits"'
+16:05:08.907 [ValidationError] /Users/nagendraa/git1/guruland/tests/AssurityProject/specs/AssurityTest.spec:16 Step implementation not found => 'And I see the attribute "canRelist" is "true"'
+16:05:08.908 [ValidationError] /Users/nagendraa/git1/guruland/tests/AssurityProject/specs/AssurityTest.spec:17 Step implementation not found => 'And I check the promotions with name "Gallery" has a description and the description contains "2x larger image"'
+16:05:09.197 Plugin [Html Report] with pid [43423] has exited
+16:05:09.300 Specifications:	0 executed	0 passed	0 failed	1 skipped
+16:05:09.300 Scenarios:	0 executed	0 passed	0 failed	1 skipped
+16:05:09.300 
+Total time taken: 82ms
+16:05:09.300 Updates are available. Run `gauge update -c` for more info.
+16:05:47.471 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+16:05:49.020 Checking updates...
+16:06:09.869 Plugin [Html Report] with pid [43446] has exited
+16:06:10.475 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:06:10.475 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:06:10.475 
+Total time taken: 4.694s
+16:06:10.475 Updates are available. Run `gauge update -c` for more info.
+16:07:00.102 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+16:07:02.033 Checking updates...
+16:07:17.410 Plugin [Html Report] with pid [43467] has exited
+16:07:17.613 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:07:17.613 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:07:17.613 
+Total time taken: 3.573s
+16:07:17.613 Updates are available. Run `gauge update -c` for more info.
+16:08:31.119 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+16:08:32.558 Checking updates...
+16:08:49.526 Plugin [Html Report] with pid [43494] has exited
+16:08:49.630 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:08:49.630 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:08:49.630 
+Total time taken: 5.736s
+16:08:49.630 Updates are available. Run `gauge update -c` for more info.
+17:18:26.436 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+17:18:27.973 Checking updates...
+17:18:46.645 Plugin [Html Report] with pid [44052] has exited
+17:18:46.750 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:18:46.750 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17:18:46.750 
+Total time taken: 5.701s
+17:18:46.750 Updates are available. Run `gauge update -c` for more info.
+17:20:48.083 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+17:20:49.370 Checking updates...
+17:21:04.666 Plugin [Html Report] with pid [44086] has exited
+17:21:04.767 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:21:04.767 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17:21:04.767 
+Total time taken: 4.803s
+17:21:04.767 Updates are available. Run `gauge update -c` for more info.
+17:23:19.352 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+17:23:20.681 Checking updates...
+17:23:37.078 Plugin [Html Report] with pid [44120] has exited
+17:23:37.598 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:23:37.598 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:23:37.598 
+Total time taken: 6.322s
+17:23:37.598 Updates are available. Run `gauge update -c` for more info.
+17:24:30.021 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+17:24:31.382 Checking updates...
+17:24:47.419 Plugin [Html Report] with pid [44143] has exited
+17:24:47.834 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:24:47.834 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:24:47.835 
+Total time taken: 6.208s
+17:24:47.835 Updates are available. Run `gauge update -c` for more info.
+17:25:59.192 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+17:26:01.045 Checking updates...
+17:26:19.675 Plugin [Html Report] with pid [44167] has exited
+17:26:20.207 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:26:20.207 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:26:20.207 
+Total time taken: 6.963s
+17:26:20.207 Updates are available. Run `gauge update -c` for more info.
+17:27:34.422 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+17:27:35.725 Checking updates...
+17:27:53.181 Plugin [Html Report] with pid [44191] has exited
+17:27:53.685 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:27:53.685 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:27:53.685 
+Total time taken: 6.503s
+17:27:53.685 Updates are available. Run `gauge update -c` for more info.
+17:33:17.610 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+17:33:19.228 Checking updates...
+17:33:36.554 Plugin [Html Report] with pid [44245] has exited
+17:33:37.057 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:33:37.057 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:33:37.057 
+Total time taken: 6.803s
+17:33:37.057 Updates are available. Run `gauge update -c` for more info.
+17:33:59.932 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+17:34:02.236 Checking updates...
+17:34:18.567 Plugin [Html Report] with pid [44262] has exited
+17:34:19.182 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:34:19.183 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:34:19.183 
+Total time taken: 6.582s
+17:34:19.183 Updates are available. Run `gauge update -c` for more info.
+17:35:16.918 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+17:35:18.426 Checking updates...
+17:35:36.616 Plugin [Html Report] with pid [44285] has exited
+17:35:37.221 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:35:37.222 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:35:37.222 
+Total time taken: 6.873s
+17:35:37.222 Updates are available. Run `gauge update -c` for more info.
+17:36:07.155 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+17:36:08.807 Checking updates...
+17:36:26.629 Plugin [Html Report] with pid [44305] has exited
+17:36:26.839 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:36:26.839 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:36:26.839 
+Total time taken: 6.874s
+17:36:26.839 Updates are available. Run `gauge update -c` for more info.
+17:38:36.481 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+17:38:38.007 Checking updates...
+17:38:53.207 Plugin [Html Report] with pid [44333] has exited
+17:38:53.810 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:38:53.810 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:38:53.810 
+Total time taken: 6.019s
+17:38:53.811 Updates are available. Run `gauge update -c` for more info.
+17:39:06.822 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+17:39:08.522 Checking updates...
+17:39:24.179 Plugin [Html Report] with pid [44348] has exited
+17:39:24.800 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:39:24.800 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:39:24.800 
+Total time taken: 6.316s
+17:39:24.801 Updates are available. Run `gauge update -c` for more info.
+17:46:49.270 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+17:46:50.275 Unable to send analytics data, timed out
+17:46:51.896 Checking updates...
+17:47:07.681 Plugin [Html Report] with pid [44418] has exited
+17:47:08.285 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:47:08.285 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:47:08.285 
+Total time taken: 6.445s
+17:47:08.285 Updates are available. Run `gauge update -c` for more info.
+18:05:13.305 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+18:05:14.789 Checking updates...
+18:05:36.036 Plugin [Html Report] with pid [44567] has exited
+18:05:36.552 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:05:36.552 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:05:36.552 
+Total time taken: 8.151s
+18:05:36.552 Updates are available. Run `gauge update -c` for more info.
+18:06:24.276 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+18:06:25.538 Checking updates...
+18:06:44.232 Plugin [Html Report] with pid [44591] has exited
+18:06:44.333 Specifications:	1 executed	1 passed	0 failed	0 skipped
+18:06:44.333 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+18:06:44.333 
+Total time taken: 6.264s
+18:06:44.333 Updates are available. Run `gauge update -c` for more info.
+18:08:36.725 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+18:08:38.455 Checking updates...
+18:08:53.800 Plugin [Html Report] with pid [44631] has exited
+18:08:54.322 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:08:54.322 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:08:54.322 
+Total time taken: 6.379s
+18:08:54.322 Updates are available. Run `gauge update -c` for more info.
+18:10:22.385 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+18:10:23.953 Checking updates...
+18:10:40.782 Plugin [Html Report] with pid [44659] has exited
+18:10:40.883 Specifications:	1 executed	1 passed	0 failed	0 skipped
+18:10:40.883 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+18:10:40.883 
+Total time taken: 6.547s
+18:10:40.883 Updates are available. Run `gauge update -c` for more info.
+20:40:35.901 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+20:40:37.726 Checking updates...
+20:40:52.216 Plugin [Html Report] with pid [45315] has exited
+20:40:52.741 Specifications:	1 executed	0 passed	1 failed	0 skipped
+20:40:52.741 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+20:40:52.741 
+Total time taken: 2.935s
+20:40:52.741 Updates are available. Run `gauge update -c` for more info.
+20:42:04.645 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+20:42:06.405 Checking updates...
+20:42:23.629 Plugin [Html Report] with pid [45339] has exited
+20:42:24.138 Specifications:	1 executed	0 passed	1 failed	0 skipped
+20:42:24.138 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+20:42:24.138 
+Total time taken: 6.73s
+20:42:24.138 Updates are available. Run `gauge update -c` for more info.
+20:47:14.554 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+20:47:16.198 Checking updates...
+20:47:33.351 Plugin [Html Report] with pid [45389] has exited
+20:47:33.869 Specifications:	1 executed	0 passed	1 failed	0 skipped
+20:47:33.869 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+20:47:33.869 
+Total time taken: 6.339s
+20:47:33.869 Updates are available. Run `gauge update -c` for more info.
+20:54:27.006 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+20:54:28.917 Checking updates...
+20:54:45.428 Plugin [Html Report] with pid [45459] has exited
+20:54:45.742 Specifications:	1 executed	1 passed	0 failed	0 skipped
+20:54:45.742 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+20:54:45.742 
+Total time taken: 5.006s
+20:54:45.742 Updates are available. Run `gauge update -c` for more info.
+21:14:57.538 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+21:14:57.945 The following specifications satisfy filter criteria:
+21:14:57.945 specs/AssurityTest.spec
+21:14:59.209 Checking updates...
+21:15:03.777 # Assurity API Tests
+21:15:03.779 
+   |Base_Url      |API_EndPoint                                    |
+   |--------------|------------------------------------------------|
+   |BaseApiUrlTest|/v1/Categories/6327/Details.json?catalogue=false|
+21:15:03.779 ## Category Details API Test
+21:15:03.782 * I make a call to <Base_Url> with endpoint <API_EndPoint>
+21:15:08.545 * When I found the API is working well with out any error
+21:15:08.574 * Then I see the attribute "Name" is "Carbon credits"
+21:15:08.988 * And I see the attribute "CanRelist" is "true"
+21:15:09.014 * And I check the promotions with name "Gallery" has a description and the description contains "2x larger image"
+
+21:15:09.145 Plugin [Html Report] with pid [46950] has exited
+21:15:09.246 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:15:09.246 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:15:09.246 
+Total time taken: 5.368s
+21:15:09.246 Updates are available. Run `gauge update -c` for more info.
+21:15:59.389 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+21:15:59.753 The following specifications satisfy filter criteria:
+21:15:59.753 specs/AssurityTest.spec
+21:16:00.912 Checking updates...
+21:16:05.637 # Assurity API Tests
+21:16:05.640 
+   |Base_Url      |API_EndPoint                                    |
+   |--------------|------------------------------------------------|
+   |BaseApiUrlTest|/v1/Categories/6327/Details.json?catalogue=false|
+21:16:05.640 ## Category Details API Test
+21:16:05.643 * I make a call to <Base_Url> with endpoint <API_EndPoint>
+21:16:09.990 * When I found the API is working well with out any error
+21:16:10.021 * Then I see the attribute "Name" is "Carbon credits"
+21:16:10.459 * And I see the attribute "CanRelist" is "true"
+21:16:10.486 * And I check the promotions with name "Gallery" has a description and the description contains "2x larger image"
+
+21:16:10.628 Plugin [Html Report] with pid [46987] has exited
+21:16:10.834 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:16:10.834 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:16:10.834 
+Total time taken: 4.921s
+21:16:10.834 Updates are available. Run `gauge update -c` for more info.
+21:42:29.743 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+21:42:51.737 Gauge Install ID: 339cff9e-cf13-4978-9dbb-2f531821e310
+21:42:53.552 Checking updates...
+21:43:08.508 Plugin [Html Report] with pid [47217] has exited
+21:43:08.718 Specifications:	1 executed	1 passed	0 failed	0 skipped
+21:43:08.718 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+21:43:08.718 
+Total time taken: 6.147s
+21:43:08.718 Updates are available. Run `gauge update -c` for more info.

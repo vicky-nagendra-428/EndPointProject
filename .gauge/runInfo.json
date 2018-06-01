@@ -1,0 +1,12 @@
+{
+	"Args": [
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console"
+	],
+	"FailedItems": [],
+	"Items": [
+		"/Users/nagendraa/Nagendra/AssurityProject/specs/AssurityTest.spec"
+	]
+}
