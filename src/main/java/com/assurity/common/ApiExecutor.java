@@ -15,9 +15,6 @@ public class ApiExecutor {
     }
 
     public Response getResponse() {
-        if (response == null) {
-
-        }
         return response;
     }
 
