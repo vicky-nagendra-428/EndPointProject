@@ -29,6 +29,6 @@ public class CategoryDetailsAPI_Steps {
 
     @Step ("And I check the promotions with name <promotionName> has a description and the description contains <expectedValueInDescription>")
     public void checkThePromotionAndTheDescription(String promotionName, String valueToCheckInDescription) {
-        categoryDetailsAPI.checkTheDescriptionForThePromotion(promotionName, valueToCheckInDescription);
+        categoryDetailsAPI.checkTheDescriptionForTheGivenPromotion(promotionName, valueToCheckInDescription);
     }
 }

@@ -15,7 +15,7 @@ public class CategoryDetailsAPI {
     ApiExecutor apiExecutor = new ApiExecutor();
 
     public void loadTheCategoryDetailsApi(String domainOfCategotyDetails, String categoryDetailsEndPoint) {
-        apiExecutor.loadTheEndPointGetMethod(EnvironmentSetup.getBaseAddress(domainOfCategotyDetails) + categoryDetailsEndPoint);
+        apiExecutor.loadTheEndPoint_GetMethod(EnvironmentSetup.getBaseAddress(domainOfCategotyDetails) + categoryDetailsEndPoint);
         Gauge.writeMessage("Loaded the end point successfully : " + categoryDetailsEndPoint);
     }
 
@@ -31,7 +31,7 @@ public class CategoryDetailsAPI {
 
     }
 
-    public void checkTheDescriptionForThePromotion(String promotionName, String valueToCheckInDescription) {
+    public void checkTheDescriptionForTheGivenPromotion(String promotionName, String valueToCheckInDescription) {
 
         boolean foundTheRequiredPromotion = false;
         List<HashMap<String, Object>> promotionsList = apiExecutor.getResponse().jsonPath().getList("Promotions");
