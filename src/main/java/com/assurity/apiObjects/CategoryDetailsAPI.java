@@ -26,9 +26,7 @@ public class CategoryDetailsAPI {
     }
 
     public void checkTheResponseForAttributeAndValue(String attribute, Object expectedValue) {
-
-        assertEquals(expectedValue, apiExecutor.getResponse().jsonPath().get(attribute));
-
+        assertEquals(expectedValue, apiExecutor.getResponse().then().extract().path(attribute));
     }
 
     public void checkTheDescriptionForTheGivenPromotion(String promotionName, String valueToCheckInDescription) {

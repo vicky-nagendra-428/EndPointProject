@@ -9,7 +9,7 @@ public class ApiExecutor {
     private Response response;
 
     public Response loadTheEndPoint_GetMethod(String endPoint) {
-        response = RestAssured.get(endPoint);
+        response = RestAssured.given().when().get(endPoint);
         response.then().log().ifError();
         return response;
     }
