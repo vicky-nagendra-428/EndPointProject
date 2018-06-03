@@ -4,10 +4,12 @@ import com.assurity.common.ApiExecutor;
 import com.assurity.util.EnvironmentSetup;
 import com.thoughtworks.gauge.Gauge;
 
+import static org.hamcrest.Matchers.*;
+
 import java.util.HashMap;
 import java.util.List;
 
-import static org.junit.Assert.assertEquals;
+import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertTrue;
 
 public class CategoryDetailsAPI {
@@ -26,7 +28,9 @@ public class CategoryDetailsAPI {
     }
 
     public void checkTheResponseForAttributeAndValue(String attribute, Object expectedValue) {
-        assertEquals(expectedValue, apiExecutor.getResponse().then().extract().path(attribute));
+
+        apiExecutor.getResponse().then().assertThat().body(attribute, equalTo(expectedValue));
+
     }
 
     public void checkTheDescriptionForTheGivenPromotion(String promotionName, String valueToCheckInDescription) {
